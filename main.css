@@ -156,7 +156,7 @@ img {
     opacity: 0.6;
 }
 
-/* thumbnail */
+
 .search-list::-webkit-scrollbar {
     width: 8px;
 }
@@ -172,12 +172,12 @@ img {
     border-radius: 10px;
 }
 
-/* js related class */
+
 .hide-search-list {
     display: none;
 }
 
-/* movie result */
+
 .result-container {
     padding: 3rem 0;
 }
@@ -194,7 +194,7 @@ img {
     padding-top: 3rem;
 }
 
-/* movie info stylings */
+
 .movie-title {
     font-size: 2rem;
     color: var(--yellow-color);
